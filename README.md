@@ -11,7 +11,6 @@ A full-stack music streaming web application built using Java technologies with 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -177,10 +176,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Playlist Management**: User-created playlists with add/remove functionality
 - **Artists Gallery**: Browse music by artist with rich visual cards
 - **Music Player**: Full-featured player with progress bar, controls, and song info
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
