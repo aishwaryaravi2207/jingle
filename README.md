@@ -161,7 +161,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Authentication Flow
 | Login Page | Registration |
 |------------|-------------|
-| ![Login](screenshot:login.png) | ![Registration](screenshots/register.png) |
+| ![Login](login.png) | ![Registration](screenshots/register.png) |
 
 ### Main Application Interface
 | Dashboard | Music Player |
