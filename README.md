@@ -161,12 +161,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Authentication Flow
 | Login Page | Registration |
 |------------|-------------|
-| ![Login](login.png) | ![Registration](screenshots/register.png) |
+| ![Login](login.png) | ![Registration](register.png) |
 
 ### Main Application Interface
 | Dashboard | Music Player |
 |-----------|--------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Player](screenshots/player.png) |
+| ![Dashboard](dashboard.png) | ![Player](player.png) |
 
 ### Key Features Showcase
 - **Recently Played**: Shows the 10 most recent tracks with album artwork
