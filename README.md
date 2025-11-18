@@ -179,6 +179,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Developed with ❤️ by Aishwarya Ravichandran**
-
 *Last Updated: December 12, 2023*
